@@ -1,33 +1,8 @@
 programa: CartaPorte
-version: 4.4
+version: 4.7
 creado_por: EL DEPARTAMENTO DE SISTEMAS-TIJUANA
 Cambios: |
-  Vesion 3.8:
-    Integracion del campo de catalogo de servicios del SAT, si el programa no encuentra el codigo del SAT
-    Dar el numero de parte a su supervisor para verificar su codigo en el catalgo y posteriormente 
-    enviar la informacion al departamento de sistemas ittijuana@tecma.com
+  Version 4.7:
+    Integracion con un servidor dedicado.
 
-  Version 3.9:
-    CARTA PORTE 3.0 En esta version se agregaron cuatro campos adicionales requeridos por la autoridad correspondiente,
-    La información OBLIGATORIA que nos solicita la autoridad adicional a la que ya tenemos es la siguiente:
-    • Tipo de materia
-    • Tipo de documento
-    • RFC importador
-    • Regimen Aduanero
-    El campo de "tipo de documento" sera el unico el cual debera ser ingresado por el usuario para completar su CPP
-    ya que no se encuentra dentro del sistema este campo.
-    
-    • El tipo de materia debera de ser alimentado del catalogo del SAT.
-    • Tipo de documento debera ser alimentado del catalogo del SAT.
-    • El RFC del importador en caso de tratarse un importador Americano debera de venir el RFC generico y si es Mexicano su RFC ante el SAT.
-    • El regimen aduanero tambien debe estar alimentado de los catalogos del SAT.
-    Nota: Como ya conocen, se utiliza el documento “pedimento” y tiene una estructura a respetar. Favor de seguirlo manejando asi: 00 00 0000 000000. (No modificar, ya se encuentra con dicha estructura en el documento que se genera)
-  Version 3.91:
-    Correcion campo Registro Aduanero
-  Version 4.1:
-    Correccion de obtencion de datos Importacion/Exportacion
-  Version 4.2:
-    Nueva funcion para agregar numeros de parte en carta porte
-  Version 4.3:
-    Correcciones Menores.
 Mostrar: SI
