@@ -1,8 +1,8 @@
 programa: CartaPorte
-version: 4.8
+version: 4.9
 creado_por: EL DEPARTAMENTO DE SISTEMAS-TIJUANA
 Cambios: |
-  Version 4.8:
+  Version 4.9:
     Integracion con un servidor dedicado.
 
 Mostrar: SI
