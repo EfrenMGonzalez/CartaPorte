@@ -1,8 +1,8 @@
 programa: CartaPorte
-version: 4.9
+version: 5.0
 creado_por: EL DEPARTAMENTO DE SISTEMAS-TIJUANA
 Cambios: |
-  Version 4.9:
-    Integracion con un servidor dedicado.
+  Version 5.0:
+    Version obligatoria por el sat a la 3.1.
 
 Mostrar: SI
